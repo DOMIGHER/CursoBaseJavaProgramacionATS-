@@ -1,4 +1,4 @@
-public class Operador11 {
+public class N11Operador {
 
     public static void main(String[] args) {
         // El metodo de sqrt permite obtener la raiz

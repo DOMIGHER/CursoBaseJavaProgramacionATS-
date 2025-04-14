@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class practica03Numero13 {
+public class N13practica03Numero {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

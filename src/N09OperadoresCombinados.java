@@ -1,4 +1,4 @@
-public class OperadoresCombinados09 {
+public class N09OperadoresCombinados {
 
     public static void main(String[] args) {
 

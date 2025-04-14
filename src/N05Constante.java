@@ -1,4 +1,4 @@
-public class Constante05 {
+public class N05Constante {
 
     public static void main(String[] args) {
         //La constante es un espacio en memoria donde su valor no cambia nunca

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practica06Numeor15 {
+public class N15Practica06Numeor {
 
 
     public static void main(String[] args) {

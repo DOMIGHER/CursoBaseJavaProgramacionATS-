@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EntradaSalida06 {
+public class N06EntradaSalida {
 
     public static void main(String[] args) {
         //Usar Scanner y instanciarlo

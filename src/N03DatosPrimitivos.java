@@ -1,4 +1,4 @@
-public class DatosPrimitivos03 {
+public class N03DatosPrimitivos {
 
     //variable: Espacio de memoria donde almacenas valores
     public static void main(String[] args) {

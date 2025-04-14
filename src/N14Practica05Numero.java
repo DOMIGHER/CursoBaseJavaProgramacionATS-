@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practica05Numero14 {
+public class N14Practica05Numero {
 
 
 

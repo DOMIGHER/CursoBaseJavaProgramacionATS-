@@ -1,4 +1,4 @@
-public class DatosNoPrimitivos04 {
+public class N04DatosNoPrimitivos {
 
     public static void main(String[] args) {
         // El integer puede guardar numeros enteros y null

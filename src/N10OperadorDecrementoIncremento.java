@@ -1,4 +1,4 @@
-public class OperadorDecrementoIncremento10 {
+public class N10OperadorDecrementoIncremento {
 
     public static void main(String[] args) {
         byte num1 = 5;
